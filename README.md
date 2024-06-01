@@ -2,8 +2,6 @@
 
 My name is Sarah, I am a fullstack software engineer, currently studying with Tech Elevator! 
 
-I am a former educator, looking to work in the EdTech world. I am particularly interested in game-based learning and companies using AI to make education more student centered!
-
 I am passionate about clean code and responsive, accessible design. 
 
 When I'm not coding, you can find me learning new (non-programming) languages, hiking with my dog, and working on a variety of DIY projects. 
