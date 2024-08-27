@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Sarah, I am a fullstack software engineer, currently studying with Tech Elevator! 
+My name is Sarah, I am a fullstack software engineer!
 
-I am passionate about clean code and responsive, accessible design. 
+I am passionate about clean code, learning new languages and frameworks, and accessibility. 
 
 When I'm not coding, you can find me learning new (non-programming) languages, hiking with my dog, and working on a variety of DIY projects. 
 
